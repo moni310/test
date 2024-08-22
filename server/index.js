@@ -66,3 +66,7 @@ app.post('/upload', upload.single('file'), (req, res) => {
 // }).catch((err)=>{
 //     console.log("errr",err)
 // })
+
+
+
+// http://localhost:3000
